@@ -67,4 +67,14 @@
         android:padding="32dp"
         android:textSize="18sp"/>
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Button 1"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Button 2"/>
+
 </LinearLayout>
